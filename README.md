@@ -40,9 +40,12 @@ serán nombradas igual que en la carpeta "train".
 - Para poder ejecutar el módulo "catvsdog3mv.py" necesitamos el archivo de pesos del modelo pre-entrenado VGG16:
       
       vgg16_weight.h5  
- 
+      
   y lo guardaremos en una carpeta que llamaremos "examples" que estará a su vez en la carpeta "keras" que a su vez
-  estará alojada en la carpeta de todos los proyectos que tenemos creados.
+  estará alojada en la carpeta de todos los proyectos que tenemos creados. Este archivo de pesos se puede descargar de
+  la dirección de drive.google:
+  
+      https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc/view
 
 ##Modo de ejecutar el proyecto y resultados que esperamos encontrar:
 
